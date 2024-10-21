@@ -3,3 +3,6 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 #aula 01 
 foi passado sobre os timos de nuvens, e como funciona o basico  da Azure 
+
+# aula 02
+criação de maquinas virtuais e valores 

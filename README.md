@@ -12,3 +12,6 @@ Entedimento do conceito de Saas, Iaas e Paas no azure. criação de maquina virt
 
 #aula 04
 desafio conta de armazenamento, grupo de serviços. provisionamento de maquina virtual 
+
+#aula 05
+desafio de configuração de onPremisse, segurança e configuração. Entra ID, premissoes 

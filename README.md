@@ -15,3 +15,6 @@ desafio conta de armazenamento, grupo de serviços. provisionamento de maquina v
 
 #aula 05
 desafio de configuração de onPremisse, segurança e configuração. Entra ID, premissoes 
+
+#aula 06
+custos com calculadora de custos e biiling  

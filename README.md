@@ -21,3 +21,6 @@ custos com calculadora de custos e biiling
 
 # lab 07
 politica de acessos no azure
+
+# lab 08
+implementação e gerenciamento

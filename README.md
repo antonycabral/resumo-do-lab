@@ -24,3 +24,6 @@ politica de acessos no azure
 
 # lab 08
 implementação e gerenciamento
+
+# lab 09
+assitente do azure, integridade do serviço azure e azure monitor
